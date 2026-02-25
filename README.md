@@ -19,7 +19,7 @@ This React application was developed to understand component-based architecture 
 - Node.js & npm
 - Git & GitHub
 
-## 📚 Learning Outcomes
+## Learning Outcomes
 - React fundamentals
 - Hooks usage
 - Component communication
