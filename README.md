@@ -1,16 +1,16 @@
 # React App Project
 
-## 📌 Description
+##  Description
 This React application was developed to understand component-based architecture and interactive user interfaces. The project demonstrates how data flows between components using props and state while maintaining a clean and scalable structure.
 
-## 🚀 Features
+##  Features
 - Component-based architecture
 - Dynamic UI updates
 - State and props handling
 - Responsive design
 - Interactive elements
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - React.js
 - JavaScript (ES6)
 - HTML5
